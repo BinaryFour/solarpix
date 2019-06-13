@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/solarpix/static/js/runtime~main.27a004bf.js"
   },
   {
-    "revision": "bc4fff8edaddcb9aea44",
-    "url": "/solarpix/static/js/main.03bacac4.chunk.js"
+    "revision": "f756d2dcbf510456f7f3",
+    "url": "/solarpix/static/js/main.2d4fbef9.chunk.js"
   },
   {
     "revision": "cc497b3607ef154652ca",
     "url": "/solarpix/static/js/2.8a58d515.chunk.js"
   },
   {
-    "revision": "7099dc650ad9101fde4eed6334bca949",
+    "revision": "7ad96936646177f76ebfaeeffcc29232",
     "url": "/solarpix/index.html"
   }
 ];
