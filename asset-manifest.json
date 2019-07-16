@@ -1,14 +1,14 @@
 {
-  "main.js": "/solarpixdev/static/js/main.0ce6545c.chunk.js",
-  "main.js.map": "/solarpixdev/static/js/main.0ce6545c.chunk.js.map",
-  "runtime~main.js": "/solarpixdev/static/js/runtime~main.e2626c19.js",
-  "runtime~main.js.map": "/solarpixdev/static/js/runtime~main.e2626c19.js.map",
-  "static/js/2.4ca4cf74.chunk.js": "/solarpixdev/static/js/2.4ca4cf74.chunk.js",
-  "static/js/2.4ca4cf74.chunk.js.map": "/solarpixdev/static/js/2.4ca4cf74.chunk.js.map",
-  "index.html": "/solarpixdev/index.html",
-  "precache-manifest.142b8238ed316dcaf0676b2da9b174cd.js": "/solarpixdev/precache-manifest.142b8238ed316dcaf0676b2da9b174cd.js",
-  "service-worker.js": "/solarpixdev/service-worker.js",
-  "static/media/categoryListFile_install": "/solarpixdev/static/media/categoryListFile_install.d1a472a9.bin",
-  "static/media/categoryListFile_pcsv": "/solarpixdev/static/media/categoryListFile_pcsv.1ad94596.bin",
-  "static/media/categoryListFile_salessv": "/solarpixdev/static/media/categoryListFile_salessv.0ee0a268.bin"
+  "main.js": "/solarpix/static/js/main.ac166269.chunk.js",
+  "main.js.map": "/solarpix/static/js/main.ac166269.chunk.js.map",
+  "runtime~main.js": "/solarpix/static/js/runtime~main.27a004bf.js",
+  "runtime~main.js.map": "/solarpix/static/js/runtime~main.27a004bf.js.map",
+  "static/js/2.4ca4cf74.chunk.js": "/solarpix/static/js/2.4ca4cf74.chunk.js",
+  "static/js/2.4ca4cf74.chunk.js.map": "/solarpix/static/js/2.4ca4cf74.chunk.js.map",
+  "index.html": "/solarpix/index.html",
+  "precache-manifest.f3d949a3063f0e3c2176be973bc77dd2.js": "/solarpix/precache-manifest.f3d949a3063f0e3c2176be973bc77dd2.js",
+  "service-worker.js": "/solarpix/service-worker.js",
+  "static/media/categoryListFile_install": "/solarpix/static/media/categoryListFile_install.d1a472a9.bin",
+  "static/media/categoryListFile_pcsv": "/solarpix/static/media/categoryListFile_pcsv.1ad94596.bin",
+  "static/media/categoryListFile_salessv": "/solarpix/static/media/categoryListFile_salessv.0ee0a268.bin"
 }
