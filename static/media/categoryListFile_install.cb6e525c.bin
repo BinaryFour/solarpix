@@ -29,7 +29,7 @@
 6Grid-Label|MSP or other label showing bus rating, specs, etc (as applicable)
 6Grid-Meter|Picture of meter so values and labels can be read
 6Grid-Tap,CTs|MSP or Tap JB interior, closeup of tap & CTs
-7Data-Data,Equip|Pic of interior of data enclosure (PVS5,6,etc).
+7Data-Data,Equip|Pic of interior of data enclosure **INCLUDE SERIAL NUMBER OF PVS6 (PVS6,etc).
 7Data-Data,Router|Client router with ethernet cable plugged into visible port number & labeled
 8House-Address|Verification of home address taken from street view
 8House-Array|Aesthetically pleasing, overall house & array photos (best pic gets $100 every 6mo from marketing)
@@ -38,4 +38,4 @@
 8House-LawnSign|Pic of lawn sign in front of house with as much array in photo as possible (included in best pic contest)
 9Spec-Battery|Battery Back-Up Photos - Photo showing battery back-up system and racking.
 9Spec-KneeWall|Knee wall pics
-9Spec-Misc|Misc pics not in other category.  PLEASE CONFIRM PIC NOT IN OTHER CATEGORY.  If a new category is needed the please let us know.
+9Spec-Misc|Misc pics not in other category.  PLEASE CONFIRM PIC NOT IN OTHER CATEGORY.  If a new category is needed then please let us know.
